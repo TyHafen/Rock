@@ -1,0 +1,15 @@
+C:\Users\tyhaf\source\codeworks\Rock\bin\Debug\net6.0\Rock.exe
+C:\Users\tyhaf\source\codeworks\Rock\bin\Debug\net6.0\Rock.deps.json
+C:\Users\tyhaf\source\codeworks\Rock\bin\Debug\net6.0\Rock.runtimeconfig.json
+C:\Users\tyhaf\source\codeworks\Rock\bin\Debug\net6.0\Rock.dll
+C:\Users\tyhaf\source\codeworks\Rock\bin\Debug\net6.0\Rock.pdb
+C:\Users\tyhaf\source\codeworks\Rock\obj\Debug\net6.0\Rock.csproj.AssemblyReference.cache
+C:\Users\tyhaf\source\codeworks\Rock\obj\Debug\net6.0\Rock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyhaf\source\codeworks\Rock\obj\Debug\net6.0\Rock.AssemblyInfoInputs.cache
+C:\Users\tyhaf\source\codeworks\Rock\obj\Debug\net6.0\Rock.AssemblyInfo.cs
+C:\Users\tyhaf\source\codeworks\Rock\obj\Debug\net6.0\Rock.csproj.CoreCompileInputs.cache
+C:\Users\tyhaf\source\codeworks\Rock\obj\Debug\net6.0\Rock.dll
+C:\Users\tyhaf\source\codeworks\Rock\obj\Debug\net6.0\refint\Rock.dll
+C:\Users\tyhaf\source\codeworks\Rock\obj\Debug\net6.0\Rock.pdb
+C:\Users\tyhaf\source\codeworks\Rock\obj\Debug\net6.0\Rock.genruntimeconfig.cache
+C:\Users\tyhaf\source\codeworks\Rock\obj\Debug\net6.0\ref\Rock.dll
